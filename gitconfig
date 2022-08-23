@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = jack.claar@gmail.com
+	name = Jack Claar
